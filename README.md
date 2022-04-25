@@ -1,4 +1,5 @@
-Modern Full Stack ECommerce Application with Stripe & Sanity ![eCommerce](https://user-images.githubusercontent.com/37592788/165033160-8d64fc69-0d11-489b-8d43-3b5f95825f97.png)
+# Modern Full Stack ECommerce Application with Stripe & Sanity 
+![eCommerce](https://user-images.githubusercontent.com/37592788/165033160-8d64fc69-0d11-489b-8d43-3b5f95825f97.png)
 
 
 **If you want to visit the Live application, Click [eCommerce-sanity-stripe](https://ecommerce-kishan.netlify.app/).**
