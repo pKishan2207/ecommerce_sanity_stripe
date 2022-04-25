@@ -1,4 +1,7 @@
-Modern Full Stack ECommerce Application with Stripe & Sanity ![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
+Modern Full Stack ECommerce Application with Stripe & Sanity ![eCommerce](https://user-images.githubusercontent.com/37592788/165033160-8d64fc69-0d11-489b-8d43-3b5f95825f97.png)
+
+
+**If you want to visit the Live application, Click [eCommerce-sanity-stripe](https://ecommerce-kishan.netlify.app/).**
 
 **Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe to cover REAL payments. This is the best e-commerce website project that you can explore!
 
@@ -14,4 +17,9 @@ From this project, I learn:
 - Through Sanity, we or the clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
 - Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
 
-![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png) ![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png) ![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png) ![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png) ![image](https://user-images.githubusercontent.com/70088342/160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52.png) ![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
+![image](https://user-images.githubusercontent.com/37592788/165033160-8d64fc69-0d11-489b-8d43-3b5f95825f97.png) 
+![image](https://user-images.githubusercontent.com/37592788/165034097-2b6479d6-885a-4028-aefa-1419ecb5c762.png) 
+![image](https://user-images.githubusercontent.com/37592788/165034120-190c9aa0-dd92-45cb-a803-60361b9d7efd.png) 
+![image](https://user-images.githubusercontent.com/37592788/165034124-dacfee9b-d0ce-4ea2-b6c9-ad88037266e0.png) 
+![image](https://user-images.githubusercontent.com/37592788/165034128-798d8800-50f4-4c14-a74b-af60cae3cab3.png) 
+![image](https://user-images.githubusercontent.com/37592788/165034133-ec0baa7c-7979-4b6f-b805-a98125006ec7.png)
